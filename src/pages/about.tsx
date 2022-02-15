@@ -12,10 +12,10 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <h1 className='text-cyan-500 text-4xl text-center m-40'>aboutです</h1>
+        <h1 className='text-cyan-500 text-4xl text-center m-40 '>Aboutです</h1>
         <h1 className='text-center m-40'>
           <Link href='/'>
-            <a className='text-cyan-500 text-4xl'>Topへ</a>
+            <a className='text-cyan-500 text-4xl hover:underline'>TOPへ</a>
           </Link>
         </h1>
       </main>
